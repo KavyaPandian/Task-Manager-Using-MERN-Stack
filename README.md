@@ -123,11 +123,9 @@ Route	Description
 /login	User Login
 /tasks/add	Add new task
 /tasks/:taskId	Edit specific task
-📸 Screenshots (Optional)
 
-You can add application screenshots here:
 
-![Dashboard Preview](path/to/screenshot.png)
+
 
 📬 Contact
 
