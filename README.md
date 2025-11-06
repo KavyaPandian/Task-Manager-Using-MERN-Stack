@@ -7,6 +7,9 @@ Great! Here is your **personalized and professional README.md** for your MERN Ta
 
 A full-stack **Task Management Application** built using the **MERN (MongoDB, Express.js, React, Node.js)** stack. This application allows users to **sign up, log in, create, update, view, and delete tasks securely** with authentication and authorization.
 
+Live demo: [taskmanagerusingmern.netlify.app](https://taskmanagerusingmern.netlify.app/)
+
+
 ---
 
 ## 📌 Author
